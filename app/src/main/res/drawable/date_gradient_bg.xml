@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--    ethu strokes kaga item ready pannathu-->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/Gray_stroke"
+                android:endColor="@android:color/transparent"
+                android:type="linear" />
+            <corners
+                android:radius="20dp"/>
+        </shape>
+    </item>
+
+    <!--    ethu antha shape color uh potu athukku padding mathiri potu we are overlapping it-->
+    <item
+        android:left="1dp"
+        android:right="1dp"
+        android:bottom="1dp"
+        android:top="1dp">
+        <shape>
+            <solid
+                android:color="@color/Gray_70"/>
+            <corners
+                android:radius="20dp"/>
+        </shape>
+    </item>
+
+</layer-list>

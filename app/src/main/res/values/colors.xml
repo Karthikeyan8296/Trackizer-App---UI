@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    FIGMA COLORS-->
+
+<!--    Grayscale-->
+    <color name="Gray_100">#0E0E12</color>
+    <color name="Gray_80">#1C1C23</color>
+    <color name="Gray_70">#353542</color>
+    <color name="Gray_70_50">#292932</color>
+    <color name="Gray_60">#4E4E61</color>
+    <color name="Gray_50">#666680</color>
+    <color name="Gray_40">#83839C</color>
+    <color name="Gray_30">#A2A2B5</color>
+    <color name="Gray_20">#C1C1CD</color>
+    <color name="Gray_10">#E0E0E6</color>
+    <color name="Gray_stroke">#5A5A61</color>
+    <color name="date_gray">#4E4E61</color>
+    <color name="item_gray">#26262F</color>
+
+<!--    Primary-->
+    <color name="Primary_100">#5E00F5</color>
+    <color name="Primary_500">#7722FF</color>
+    <color name="Primary_20">#924EFF</color>
+    <color name="Primary_10">#AD7BFF</color>
+    <color name="Primary_05">#C9A7FF</color>
+    <color name="Primary_0">#E4D3FF</color>
+
+<!--    Accent Primary-->
+    <color name="Accent_P_100">#FF7966</color>
+    <color name="Accent_P_50">#FFA699</color>
+    <color name="Accent_P_0">#FFD2CC</color>
+
+<!--    Accent Secondary-->
+    <color name="Accent_S_100">#00FAD9</color>
+    <color name="Accent_S_50">#7DFFEE</color>
+
+
+    <color name="purple_line">#AD7BFF</color>
+
+
+
+</resources>
